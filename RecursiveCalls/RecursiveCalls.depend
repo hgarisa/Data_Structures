@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1743334102 source:c:\c_workspace\recursivecalls\main.c
+	<stdio.h>
+	<stdlib.h>
+

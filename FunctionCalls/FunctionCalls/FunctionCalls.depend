@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1743757183 source:c:\c_workspace\functioncalls\functioncalls\main.c
+	<stdio.h>
+	<stdlib.h>
+
